@@ -1,6 +1,6 @@
 # LearningGBsize
 
-This is code used for "[Predicting the cardinality of a reduced Gröbner basis](https://arxiv.org/abs/2302.05364)"  by [Shahrzad Jamsidi](https://www.lakeforest.edu/academics/faculty/sjamshidi), Eric Kang, and [Sonja Petrović](https://www.sonjapetrovicstats.com/). 
+This is code used for "[Predicting the cardinality of a reduced Gröbner basis](https://arxiv.org/abs/2302.05364)"  by [Shahrzad Jamshidi](https://www.lakeforest.edu/academics/faculty/sjamshidi), Eric Kang, and [Sonja Petrović](https://www.sonjapetrovicstats.com/). 
 
 ## Python files for NN  
 
